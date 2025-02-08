@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    
+}
+
+.minhas-infos {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#meu-nome {
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.titulo-principal {
+    font-size: 25px;
+    text-transform: uppercase;
+    background-color: lightgray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.container {
+    display: flex;
+    width: 100;
+    padding: 20px 500px;
+    flex-direction: column;
+    
+}
+
+#empresa {
+    font-size: 18px;
+}
